@@ -1,0 +1,18 @@
+img {
+	width: 30%;
+	float: left; 
+	/*이렇게 해주면 우리가 margin을 customize할수있어서 짱*/
+	margin: 1.66%;
+}
+
+
+p{
+font-family: Raleway;
+margin-left: 1.66%;
+font-size: 23px;
+font-weight: 700;
+text-transform: uppercase;
+border-bottom: 3px solid #f1f1f1;
+width: 30%;
+padding-bottom: 20px;
+}
